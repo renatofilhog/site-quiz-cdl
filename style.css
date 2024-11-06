@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#quiz-container, #result-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+#controls {
+    margin-top: 20px;
+}
+
+.correct {
+    background-color: #d4edda !important;
+}
+
+.incorrect {
+    background-color: #f8d7da !important;
+}
